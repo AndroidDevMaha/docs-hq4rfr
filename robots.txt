@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-gpjeen.indocuansite.online/sitemap.xml
